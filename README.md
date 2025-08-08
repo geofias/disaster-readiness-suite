@@ -35,7 +35,7 @@ A visual and informative guide focused on natural hazards, their effects, and ho
 </tr>
 </table>
 
-📘[Disaster Guide](./documents/disaster_guide.pdf)
+📘[Disaster Guide PDF](./documents/disaster_guide.pdf)
 
 ---
 
@@ -64,7 +64,7 @@ A practical and printable checklist for preparing a personal or family emergency
 </tr>
 </table>
 
-✅[72 Hour Checklist](./documents/emergency_checklist_72h.pdf)
+✅[72 Hour Checklist PDF](./documents/emergency_checklist_72h.pdf)
 
 ---
 
