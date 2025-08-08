@@ -29,11 +29,13 @@ A visual and informative guide focused on natural hazards, their effects, and ho
 </td>
 <td>
 
-<img src="assets/images/disaster_guide_preview.png" alt="Disaster Guide Preview" width="350"/>
+<img src="assets/images/disaster_guide_preview.jpg" alt="Disaster Guide Preview" width="350"/>
 
 </td>
 </tr>
 </table>
+
+📘[Disaster Guide](./documents/disaster_guide.pdf)
 
 ---
 
@@ -56,11 +58,13 @@ A practical and printable checklist for preparing a personal or family emergency
 </td>
 <td>
 
-<img src="assets/images/emergency_checklist_preview.png" alt="72-Hour Kit Checklist" width="350"/>
+<img src="assets/images/emergency_checklist_preview.jpg" alt="72-Hour Kit Checklist" width="350"/>
 
 </td>
 </tr>
 </table>
+
+✅[72 Hour Checklist](./documents/emergency_checklist_72h.pdf)
 
 ---
 
